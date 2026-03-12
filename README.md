@@ -9,9 +9,9 @@ AI와 문제 해결에 관심이 많으며, 연구실 활동과 대회 참여를
 - **2025.09** | PRML 연구실 학부연구생
 - **2025.12** | A.ing 임원진
 - **2026.02** | LG Aimers 8th  
-  [🔗 Repository](여기에-레포-링크-삽입)
+  [🔗 Repository](https://github.com/ZEO1122/LG_Aimers_8th.git)
 - **2026.03** | 구조물 안정성 물리 추론 AI 경진대회 참여 중  
-  [🔗 Repository](여기에-레포-링크-삽입)
+  [🔗 Repository](https://github.com/ZEO1122/Physically-Existing-AI-Competition.git)
 
 ## Interest
 
