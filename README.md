@@ -1,24 +1,37 @@
-# 👋 Hi!
+# 👋 Hi! I'm Jeo Jeon (전제오)
 
-I’m an undergraduate student majoring in **Computer Engineering at Gachon University**.
-I’m especially interested in **AI** and **problem solving**, and I’m continually improving through competitions and hands-on projects.
+I’m a **third-year undergraduate student** in the Department of **Computer Science** at **Gachon University**, and I’m expected to graduate in **February 2028**.
+My interests lie in **AI and machine learning research**, particularly in **affective computing**, **multimodal AI**, and **human-centered AI systems**.
 
-## 🗓️ Experience
+- 📍 Seongnam, Korea
+- 🌐 Website: https://zeo1122.github.io/
 
-- **2022** | Started B.S. in Computer Engineering, Gachon University
-- **Sep 2025** | Undergraduate Research Student, **PRML Lab**
-- **Dec 2025** | Executive Member, **A.ing**
-- **Feb 2026** | **LG Aimers 8th**
-  - Repository: https://github.com/ZEO1122/LG_Aimers_8th.git
-- **Mar 2026 – Present** | Participating in the **Structural Stability Physics Reasoning AI Competition**
-  - Repository: https://github.com/ZEO1122/Physically-Existing-AI-Competition.git
+## 🔬 Research / Academic Activities
 
-## 🔎 Interests
+- **Undergraduate Researcher**, **PRML Lab**
+  - Participate in paper reading and deep learning study sessions
+- **Executive Member**, **Aing** (AI academic club at Gachon University)
+  - Organize study programs and support member learning
 
-- Machine Learning / Deep Learning
-- AI Competitions
+## 🔎 Research Interests
+
 - Affective Computing
+- Multimodal AI
+- Human-centered AI
+- Machine Learning & Deep Learning
 
-## 🌐 Links
+## 🗓️ Recent Activities
 
-- Website: https://zeo1122.github.io/
+- **2026.03** | Launched *Transformer Architecture Study* at Aing
+- **2026.02** | Participated in **LG Aimers 8th** — **Top 40 / 600+ teams**
+  - Repository: https://github.com/ZEO1122/LG_Aimers_8th.git
+- **2025.12** | Joined Aing as Executive Member
+- **2025.09** | Joined PRML Lab as Undergraduate Researcher
+- **2024.12** | Completed mandatory military service (ROK Army) as Sergeant
+- **2023.06** | Enlisted in the Republic of Korea Army
+- **2022.02** | Enrolled in Gachon University, Dept. of Computer Science
+
+## 🔗 Links
+
+- GitHub: https://github.com/ZEO1122
+- Projects (competition): https://github.com/ZEO1122/Physically-Existing-AI-Competition.git
