@@ -138,16 +138,12 @@ A junior-track study repository outlining a four-week learning flow from paper a
 
 * PyTorch
 * Hugging Face ecosystem
-* JAX — optimization work in progress in the AD multimodal-fusion repository
 
 ### AI / Machine Learning
 
 * Machine Learning & Deep Learning
 * Transformer Architecture
 * LLM Compression: QLoRA, LoRA, and GPTQ
-* Federated Learning & Image Imputation
-* Multimodal Fusion & Optimal Transport
-* Medical Imaging with MRI and PET data
 
 ### Tools
 
