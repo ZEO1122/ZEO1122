@@ -19,7 +19,7 @@ My primary interests are **affective computing**, **multimodal AI**, and **human
 
 * Participate in paper reading sessions and deep learning study
 * Build research foundations in **pattern recognition**, **machine learning**, and **deep learning**
-* Explore topics related to affective computing, multimodal learning, human-centered AI, and medical AI
+* Explore topics related to affective computing, multimodal learning, human-centered AI
 
 ### Executive Member · Aing
 
@@ -160,8 +160,6 @@ A junior-track study repository outlining a four-week learning flow from paper a
 | 2026.06 | Earned the **NCP-AI** certification and completed the Aing executive-member term |
 | 2026.05 | Completed the **Transformer Architecture Study** curriculum and experiments |
 | 2026.02 | Finished **LG Aimers 8th** in **40th place** |
-| 2026.02 | Opened the **ResNet Architecture Study** repository as a work in progress |
-| 2025.12 | Added public research repositories on federated medical-image imputation and OT-based MRI/PET fusion |
 | 2025.09 | Joined **PRML Lab** as an Undergraduate Researcher |
 | 2024.12 | Completed mandatory military service in the Republic of Korea Army as Sergeant |
 | 2023.06 | Enlisted in the Republic of Korea Army |
@@ -173,8 +171,5 @@ A junior-track study repository outlining a four-week learning flow from paper a
 
 * Website: [zeo1122.github.io](https://zeo1122.github.io/)
 * GitHub: [github.com/ZEO1122](https://github.com/ZEO1122)
-* Medical Imaging & Federated Imputation: [Repository](https://github.com/ZEO1122/Decentralized-Noise-Handling-in-Medical-Imaging)
-* OT-based AD Multimodal Fusion: [Repository](https://github.com/ZEO1122/OT-based-Heterogeneous-Multi-Modal-Fusion-Embedding-for-AD-analysis)
 * LG Aimers 8th: [Repository](https://github.com/ZEO1122/LG_Aimers_8th)
 * Transformer Study: [Repository](https://github.com/aing-gachon/26-Spring-Transformer-Study)
-* ResNet Study: [Repository](https://github.com/ZEO1122/26-Spring-ResNet-Study)
