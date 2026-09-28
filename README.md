@@ -48,4 +48,16 @@ An LLM compression project aimed at improving inference efficiency while preserv
 
 ## Tools
 
-Python · C++ · PyTorch · Git · Linux
+### Languages
+
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=plastic&amp;logo=python&amp;logoColor=white" height="28" />
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&amp;logo=cplusplus&amp;logoColor=white" height="28" />
+
+### Machine Learning
+
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&amp;logo=pytorch&amp;logoColor=white" height="28" />
+
+### Development Tools
+
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=plastic&amp;logo=git&amp;logoColor=white" height="28" />
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&amp;logo=linux&amp;logoColor=black" height="28" />
