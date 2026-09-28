@@ -1,175 +1,51 @@
-# 👋 Hi! I'm Jeo Jeon (전제오)
+# Jeo Jeon (전제오)
 
-I’m a **third-year undergraduate student** in the Department of **Computer Science** at **Gachon University**, expected to graduate in **February 2028**.
+**Undergraduate Researcher · Gachon University**
 
-My primary interests are **affective computing**, **multimodal AI**, and **human-centered AI systems**. My public GitHub work also covers **medical imaging**, **federated learning**, **Optimal Transport-based multimodal fusion**, **Transformer architectures**, and **LLM model compression**.
+[Website](https://zeo1122.github.io/) · [CV (English)](https://zeo1122.github.io/cv/) · [CV (한국어)](https://zeo1122.github.io/ko/cv/) · [Email](mailto:chris011122@gmail.com)
 
-* 📍 Seongnam, Korea
-* 🏫 Gachon University, Department of Computer Science
-* 🌐 Website: [zeo1122.github.io](https://zeo1122.github.io/)
-* 📫 Email: [chris011122@gmail.com](mailto:chris011122@gmail.com)
+I am a Computer Engineering undergraduate at Gachon University. Through organizing academic activities in A.ing and participating in AI competitions, I have gained experience implementing models and running experiments. I am currently conducting research and writing a paper in my areas of interest.
 
----
+## Research Interests
 
-## 🔬 Research / Academic Activities
+Affective Computing · Multimodal AI · Human-Centered AI
 
-### Undergraduate Researcher · PRML Lab
+## Current Activities
 
-**2025.09 – Present**
+- **Undergraduate Researcher, PRML Lab** (September 2025-present): Participate in paper seminars and Deep Learning study sessions.
+- **Academic Team Lead, A.ing** (September 2025-present): Plan and organize study sessions and academic activities for Gachon University's AI academic club.
 
-* Participate in paper reading sessions and deep learning study
-* Build research foundations in **pattern recognition**, **machine learning**, and **deep learning**
-* Explore topics related to affective computing, multimodal learning, human-centered AI
+## Selected Projects
 
-### Executive Member · Aing
+### A.ing Discord Learning Support Bot
 
-**AI Academic Club at Gachon University | 2025.12 – 2026.06**
+A Discord bot that supports learning Deep Learning fundamentals and exploring research interests through recent papers.
 
-* Operated and supported Gachon University’s AI academic club
-* Planned and facilitated study sessions and academic activities
-* Supported member engagement and learning
+[Code](https://github.com/aing-gachon/A.ing-Discord-Bot) · [Project Details](https://zeo1122.github.io/portfolio/discord-bot/)
 
-### Transformer Study Creator & Participant · Aing
+### LG Aimers 9th: Pitch Control Success Prediction
 
-**2026.03 – 2026.05**
+A project that predicts the probability of pitch control success for the next pitch using game context and player history.
 
-* Designed and led a structured study program on **Transformer architecture** and the **Attention mechanism**
-* Built a junior-track curriculum connecting paper reading, paper-to-code mapping, implementation practice, and experiment review
-* Covered Self-Attention, Multi-Head Attention, Positional Encoding, Encoder-Decoder architecture, and PyTorch-based implementation
-* Repository: [aing-gachon/26-Spring-Transformer-Study](https://github.com/aing-gachon/26-Spring-Transformer-Study)
+[Code](https://github.com/ZEO1122/LG_Aimers_9th) · [Project Details](https://zeo1122.github.io/portfolio/lg-aimers-9th/)
 
----
+### Transformer Study Materials
 
-## 🔎 Research Interests
+Study materials that help learners understand the Transformer by connecting concepts from the paper with PyTorch implementations and hands-on exercises.
 
-* Affective Computing
-* Multimodal AI
-* Human-centered AI
-* Medical Imaging AI
-* Federated Learning
-* Machine Learning & Deep Learning
-* Transformer Architectures & Model Efficiency
+[Code](https://github.com/aing-gachon/26-Spring-Transformer-Study) · [Project Details](https://zeo1122.github.io/portfolio/transformer-study/) · [Paper Reviews](https://zeo1122.github.io/notes/)
 
----
+### LG Aimers 8th: Model Compression
 
-## 🏆 Competitions & Certifications
+An LLM compression project aimed at improving inference efficiency while preserving the response quality of EXAONE-4.0-1.2B.
 
-### Team Leader · LG Aimers 8th Model Compression Online Hackathon
+[Code](https://github.com/ZEO1122/LG_Aimers_8th) · [Project Details](https://zeo1122.github.io/portfolio/lg-aimers/)
 
-**2025.12 – 2026.02**
+## Competition Highlights
 
-* Finished in **40th place** with a score of **0.63166**; the project repository records **69 submissions**
-* Led team coordination, experiment planning, and strategy consolidation
-* Worked with **EXAONE-4.0-1.2B** on an LLM model-compression task
-* Built the project around:
-  * QLoRA-based supervised fine-tuning
-  * Conversation-style preprocessing with answer-only loss masking
-  * Sequence-length trade-off analysis using a final training length of 1024 tokens
-  * Optional GPTQ W8A8 post-training quantization
-  * Hugging Face-compatible model packaging
-* Repository: [ZEO1122/LG_Aimers_8th](https://github.com/ZEO1122/LG_Aimers_8th)
+- **LG Aimers 9th:** 63rd place · Team Lead
+- **LG Aimers 8th:** 40th place · Team Member
 
-### NCP-AI
+## Tools
 
-* Issued **2026.06.17**
-
----
-
-## 🚀 Public Repository Highlights
-
-### Research Repositories
-
-#### Decentralized Noise Handling in Medical Imaging
-
-A medical-imaging research repository investigating an encoder-decoder-based federated imputation method that reconstructs noisy images before downstream classification training.
-
-* Topics: Medical Imaging, Federated Learning, Image Imputation, Encoder-Decoder Models
-* Repository: [ZEO1122/Decentralized-Noise-Handling-in-Medical-Imaging](https://github.com/ZEO1122/Decentralized-Noise-Handling-in-Medical-Imaging)
-
-#### OT-based Heterogeneous Multi-Modal Fusion Embedding for AD Analysis
-
-An **Optimal Transport-based** framework for heterogeneous multimodal fusion of **ADNI MRI and PET data** for Alzheimer’s disease analysis. The repository documents ongoing JAX dependency work for training optimization and acknowledges its foundation in the RIMA project.
-
-* Topics: Optimal Transport, Multimodal Fusion, Alzheimer’s Disease, MRI, PET, JAX
-* Repository: [ZEO1122/OT-based-Heterogeneous-Multi-Modal-Fusion-Embedding-for-AD-analysis](https://github.com/ZEO1122/OT-based-Heterogeneous-Multi-Modal-Fusion-Embedding-for-AD-analysis)
-
-### Study & Competition Repositories
-
-#### Transformer Architecture Study
-
-A junior-track curriculum designed to move beyond using pretrained models and toward understanding, implementing, and experimenting with Transformer internals.
-
-* Topics: Transformer, Attention Mechanism, NLP, Deep Learning, PyTorch
-* Repository: [aing-gachon/26-Spring-Transformer-Study](https://github.com/aing-gachon/26-Spring-Transformer-Study)
-
-#### LG Aimers 8th Model Compression
-
-A portfolio version of an LLM-compression project balancing model quality and inference efficiency under a fixed evaluation environment.
-
-* Topics: LLM Compression, QLoRA, GPTQ, EXAONE, Hugging Face, PyTorch
-* Repository: [ZEO1122/LG_Aimers_8th](https://github.com/ZEO1122/LG_Aimers_8th)
-
-#### ResNet Architecture Study · Work in Progress
-
-A junior-track study repository outlining a four-week learning flow from paper and concept review to implementation, experiments, and result analysis.
-
-* Topics: ResNet, CNN, Deep Learning, Paper-to-Code Study
-* Repository: [ZEO1122/26-Spring-ResNet-Study](https://github.com/ZEO1122/26-Spring-ResNet-Study)
-
----
-
-## 📚 Relevant Coursework
-
-* Natural Language Processing
-* Image Processing
-* Advanced Generative AI
-* Special Topics in Emerging Technologies
-
----
-
-## 🛠️ Skills & Project Experience
-
-### Programming
-
-* Python
-* C++
-
-### Frameworks & Libraries
-
-* PyTorch
-* Hugging Face ecosystem
-
-### AI / Machine Learning
-
-* Machine Learning & Deep Learning
-* Transformer Architecture
-* LLM Compression: QLoRA, LoRA, and GPTQ
-
-### Tools
-
-* Git
-* GitHub
-* Linux
-
----
-
-## 🗓️ Recent Activities
-
-| Date    | Activity |
-| ------- | -------- |
-| 2026.06 | Earned the **NCP-AI** certification and completed the Aing executive-member term |
-| 2026.05 | Completed the **Transformer Architecture Study** curriculum and experiments |
-| 2026.02 | Finished **LG Aimers 8th** in **40th place** |
-| 2025.09 | Joined **PRML Lab** as an Undergraduate Researcher |
-| 2024.12 | Completed mandatory military service in the Republic of Korea Army as Sergeant |
-| 2023.06 | Enlisted in the Republic of Korea Army |
-| 2022.02 | Enrolled in Gachon University, Department of Computer Science |
-
----
-
-## 🔗 Links
-
-* Website: [zeo1122.github.io](https://zeo1122.github.io/)
-* GitHub: [github.com/ZEO1122](https://github.com/ZEO1122)
-* LG Aimers 8th: [Repository](https://github.com/ZEO1122/LG_Aimers_8th)
-* Transformer Study: [Repository](https://github.com/aing-gachon/26-Spring-Transformer-Study)
+Python · C++ · PyTorch · Git · Linux
